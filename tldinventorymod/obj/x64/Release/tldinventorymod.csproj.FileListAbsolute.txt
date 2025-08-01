@@ -1,0 +1,10 @@
+C:\Users\Connah\source\repos\tldinventorymod\tldinventorymod\bin\x64\Release\tldinventorymod.dll
+C:\Users\Connah\source\repos\tldinventorymod\tldinventorymod\bin\x64\Release\tldinventorymod.pdb
+C:\Users\Connah\source\repos\tldinventorymod\tldinventorymod\obj\x64\Release\tldinventorymod.csproj.AssemblyReference.cache
+C:\Users\Connah\source\repos\tldinventorymod\tldinventorymod\obj\x64\Release\tldinventorymod.csproj.CoreCompileInputs.cache
+C:\Users\Connah\OneDrive\Desktop\tldmodtest\tldinventorymod.dll
+C:\Users\Connah\OneDrive\Desktop\tldmodtest\tldinventorymod.pdb
+C:\SteamLibrary\steamapps\common\TheLongDark\Mods\PPPInfoMod.dll
+C:\SteamLibrary\steamapps\common\TheLongDark\Mods\PPPInfoMod.pdb
+C:\Users\Connah\source\repos\tldinventorymod\tldinventorymod\obj\x64\Release\PPPInfoMod.dll
+C:\Users\Connah\source\repos\tldinventorymod\tldinventorymod\obj\x64\Release\PPPInfoMod.pdb

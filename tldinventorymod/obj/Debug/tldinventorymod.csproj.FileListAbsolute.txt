@@ -1,0 +1,2 @@
+C:\Users\Connah\source\repos\tldinventorymod\tldinventorymod\obj\Debug\tldinventorymod.csproj.AssemblyReference.cache
+C:\Users\Connah\source\repos\tldinventorymod\tldinventorymod\obj\Debug\tldinventorymod.csproj.CoreCompileInputs.cache
